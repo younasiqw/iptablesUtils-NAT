@@ -1,7 +1,5 @@
 # 利用iptables设置端口转发的shell脚本
 
-电报讨论组 https://t.me/popstary
-
 **本项目支持转发到ddns域名、支持udp转发，但不支持端口段转发**
 
 很多玩VPS的人都会有设置端口转发、进行中转的需求，在这方面也有若干种方案，比如socat、haproxy、brook等等。他们都有一些局限或者问题，比如socat会爆内存，haproxy不支持udp转发。
