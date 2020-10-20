@@ -17,7 +17,7 @@ wget --no-check-certificate -qO natcfg.sh http://www.arloor.com/sh/iptablesUtils
 或
 
 ```
-wget --no-check-certificate -qO natcfg.sh https://raw.githubusercontent.com/younasiqw/iptablesUtils/master/natcfg.sh && bash natcfg.sh
+wget --no-check-certificate -qO natcfg.sh https://raw.githubusercontent.com/younasiqw/iptablesUtils-NAT/master/natcfg.sh && bash natcfg.sh
 ```
 
 输出如下：
@@ -38,7 +38,7 @@ wget --no-check-certificate -qO natcfg.sh https://raw.githubusercontent.com/youn
 ## 卸载
 
 ```shell
-wget --no-check-certificate -qO uninstall.sh https://raw.githubusercontent.com/arloor/iptablesUtils/master/dnat-uninstall.sh && bash uninstall.sh
+wget --no-check-certificate -qO uninstall.sh https://raw.githubusercontent.com/arloor/iptablesUtils-NAT/master/dnat-uninstall.sh && bash uninstall.sh
 ```
 
 ## trojan转发
